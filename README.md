@@ -97,4 +97,4 @@
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s chat: [princemaxwellugochukwu@gmail.com](mailto:princemaxwellugochukwu@gmail.com)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"Simplifying and automating the cloud, one deploy at a time."*
