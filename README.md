@@ -1,9 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Maxwell Ugochukwu</h1>
 
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
-
 <h3 align="center">A passionate Cloud/DevOps Engineer from Nigeria. I work in the Corporate IT Sector and in my free time I write tech blog at <a href="https://dev.to/princemaxi" target="_blank">princemaxi</a></h3>
 
 <p align="center">
